@@ -66,7 +66,7 @@ The "Perspective Transform" section focuses on cropping out the document region 
 
 ### Image Enhancement
 
-Image enhancement techniques are optional and can be implemented based on your preferences. This step allows you to improve the quality of the scanned document further. Functions for techniques like cartooning, histogram equalization, thresholding, adaptive thresholding, CLAHE, and division by fake flat field F are provided.
+Image enhancement techniques was optional and implemented to improve the quality of the scanned document. Functions for techniques like cartooning, histogram equalization, thresholding, adaptive thresholding, CLAHE, and division by fake flat field F are provided.
 
 ### Result
 
