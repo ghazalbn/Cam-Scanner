@@ -3,18 +3,18 @@
 CamScanner is a Python project that utilizes computer vision techniques to enhance and scan documents. Below, you'll find an overview of the project's key components and how they work together to achieve the goal of document scanning.
 
 ## Table of Contents
-- [Imports](Document%20Scanner.ipynb#Imports)
-- [Utilities](Document%20Scanner.ipynb#Utilities)
-- [Image](Document%20Scanner.ipynb#Image)
-- [Process](Document%20Scanner.ipynb#Process)
-  - [Morphological Operation and GrabCut](Document%20Scanner.ipynb#Morphological-Operation-and-GrabCut)
-  - [Grayscale Transform](Document%20Scanner.ipynb#Grayscale-Transform)
-  - [Blurring the Image](Document%20Scanner.ipynb#Blurring-the-Image)
-  - [Edge Detection](Document%20Scanner.ipynb#Edge-Detection)
-  - [Contour Detection](Document%20Scanner.ipynb#Contour-Detection)
-  - [Perspective Transform](Document%20Scanner.ipynb#Perspective-Transform)
-  - [Image Enhancement](Document%20Scanner.ipynb#Image-Enhancement)
-  - [Result](Document%20Scanner.ipynb#Result)
+- [Imports](#imports)
+- [Utilities](#utilities)
+- [Image](#image)
+- [Process](#process)
+  - [Morphological Operation and GrabCut](#morphological-operation-and-grabcut)
+  - [Grayscale Transform](#grayscale-transform)
+  - [Blurring the Image](#blurring-the-image)
+  - [Edge Detection](#edge-detection)
+  - [Contour Detection](#contour-detection)
+  - [Perspective Transform](#perspective-transform)
+  - [Image Enhancement](#image-enhancement)
+  - [Result](#result)
 
 ---
 
